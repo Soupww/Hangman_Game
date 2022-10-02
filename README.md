@@ -1,7 +1,7 @@
 # Hangman_Game
 A word guessing game using python
 
-![word_guess](Hangman_Game/word_guess.png)
+![word_guess](game.png)
 
 Your aim is to guess the letter of given words. We have a data set of 5-letter- words and their number of occurence. You need to give the best guess after each guess.
 
