@@ -1,2 +1,2 @@
 # Hangman_Game
-A word guessing game
+A word guessing game using python
